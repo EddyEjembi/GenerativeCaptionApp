@@ -1,4 +1,4 @@
-# Social Media Image Captioning Client
+# Social Media Image Captioning App
 
 Welcome to the Social Media Image Captioning Client repository. This client interacts with the Social Media Image Captioning API to provide a user-friendly interface for uploading images and receiving creative captions.
 
